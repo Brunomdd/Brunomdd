@@ -3,7 +3,7 @@
 🚀 **Estudante de Ciência da Computação | Entusiasta de Python e Backend**  
 🇧🇷 São Paulo, Brasil
 
-Sou estudante de Ciência da Computação, atualmente no 5º semestre, construindo uma base sólida em **desenvolvimento backend, algoritmos e estruturas de dados**.  
+Sou estudante de Ciência da Computação, atualmente no 6º semestre, construindo uma base sólida em **desenvolvimento backend, algoritmos e estruturas de dados**.  
 Tenho foco em **resolução de problemas, lógica limpa e entendimento profundo de como os sistemas funcionam**.
 
 Também pratico com frequência no **LeetCode** e desenvolvo pequenos projetos para transformar teoria em prática.

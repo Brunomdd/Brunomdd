@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Bruno Menezes
+
 
 🚀 **Estudante de Ciência da Computação | Entusiasta de Python e Backend**  
 🇧🇷 São Paulo, Brasil
@@ -8,23 +8,7 @@ Tenho foco em **resolução de problemas, lógica limpa e entendimento profundo 
 
 Também pratico com frequência no **LeetCode** e desenvolvo pequenos projetos para transformar teoria em prática.
 
----
 
-## 🌐 Onde me encontrar
-
-<p align="left">
-  <a href="https://github.com/Brunomdd">
-    <img src="https://img.shields.io/badge/GitHub-Brunomdd-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/bruno-menezesd/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Menezes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 🧠 No que estou evoluindo
 
@@ -48,7 +32,6 @@ Também pratico com frequência no **LeetCode** e desenvolvo pequenos projetos p
 
 ### Aprendendo agora / próximos passos
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 

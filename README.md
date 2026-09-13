@@ -51,12 +51,6 @@ Tenho foco em **resolução de problemas, lógica limpa e entendimento profundo 
 
 ---
 
-## 🚀 Filosofia
-
-> *"Antes de construir rápido, é preciso aprender a pensar com clareza.  
-> Bom código começa com o entendimento do problema."*
-
----
 
 ⭐ Sempre aprendendo, sempre construindo  
 🤝 Aberto a conexões com outros desenvolvedores e troca de conhecimento
